@@ -12,7 +12,7 @@ export function HeroBanner() {
           <Button className="bg-yellow-400 text-black hover:bg-yellow-500 transition-colors duration-300 animate-fade-in animation-delay-800">Shop Now</Button>
         </div>
         <div className="flex-shrink-0">
-          <img src="https://i.ytimg.com/vi/yY6CWvow6bc/maxresdefault.jpg" alt="OPPO Find X8 series" className="h-96 w-auto object-contain animate-slide-in-right" />
+          <img src="" alt="OPPO Find X8 series" className="h-96 w-auto object-contain animate-slide-in-right" />
         </div>
       </div>
     </div>
