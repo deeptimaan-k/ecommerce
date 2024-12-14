@@ -4,14 +4,14 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 
 const categories = [
-  "Smartphones",
-  "Smart Watches",
-  "Laptops",
-  "Android TVs",
-  "Audio Store",
-  "Tablets",
-  "Personal Care",
-  "Home Appliance",
+  // "Smartphones",
+  // "Smart Watches",
+  // "Laptops",
+  // "Android TVs",
+  // "Audio Store",
+  // "Tablets",
+  // "Personal Care",
+  // "Home Appliance",
 ]
 
 export function SiteHeader() {
